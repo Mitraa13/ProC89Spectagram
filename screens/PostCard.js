@@ -17,7 +17,7 @@ import * as Font from 'expo-font';
 import firebase from 'firebase';
 
 let customFonts = {
-  'Bubblegum-Sans': require('../assets/font/BubblegumSans-Regular.ttf'),
+  'Bubblegum-Sans': require('../assets/fonts/BubblegumSans-Regular.ttf'),
 };
 
 export default class PostCard extends Component {
