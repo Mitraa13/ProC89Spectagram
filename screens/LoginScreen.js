@@ -18,7 +18,7 @@ import AppLoading from 'expo-app-loading';
 import * as Font from 'expo-font';
 
 let customFonts = {
-  'Bubblegum-Sans': require('../assets/font/BubblegumSans-Regular.ttf'),
+  'Bubblegum-Sans': require('../assets/fonts/BubblegumSans-Regular.ttf'),
 };
 
 export default class LoginScreen extends Component {
