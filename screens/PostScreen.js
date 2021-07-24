@@ -21,7 +21,7 @@ let Light_theme_img = require('../assets/logo2.png');
 let Dark_theme_img = require('../assets/logo.png');
 
 let customFonts = {
-  'Bubblegum-Sans': require('../assets/font/BubblegumSans-Regular.ttf'),
+  'Bubblegum-Sans': require('../assets/fonts/BubblegumSans-Regular.ttf'),
 };
 
 export default class StoryScreen extends Component {
