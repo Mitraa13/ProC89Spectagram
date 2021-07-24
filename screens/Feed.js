@@ -20,7 +20,7 @@ let Light_theme_img = require('../assets/logo2.png');
 let Dark_theme_img = require('../assets/logo.png');
 
 let customFonts = {
-  'Bubblegum-Sans': require('../assets/font/BubblegumSans-Regular.ttf'),
+  'Bubblegum-Sans': require('../assets/fonts/BubblegumSans-Regular.ttf'),
 };
 
 let stories = require('./temp_stories.json');
