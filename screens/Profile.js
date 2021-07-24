@@ -15,7 +15,7 @@ import * as Font from 'expo-font';
 import firebase from 'firebase';
 
 let customFonts = {
-  'Bubblegum-Sans': require('../assets/font/BubblegumSans-Regular.ttf'),
+  'Bubblegum-Sans': require('../assets/fonts/BubblegumSans-Regular.ttf'),
 };
 
 let Light_theme_img = require('../assets/logo2.png');
