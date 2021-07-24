@@ -2,7 +2,7 @@ import React from 'react';
 import { createDrawerNavigator } from '@react-navigation/drawer';
 import StackNavigator from './StackNavigator';
 import Profile from '../screens/Profile';
-import Logout from '../screens/LogOutScreen';
+import Logout from '../screens/LogOut';
 import firebase from 'firebase';
 import CustomisedSideBarScreen from '../screens/CustomisedSideBarScreen';
 
